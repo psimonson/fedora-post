@@ -1,0 +1,16 @@
+akmod-nvidia
+xorg-x11-drv-nvidia-cuda
+google-chrome-stable
+lutris
+steam
+subversion
+git
+SDL2-devel
+SDL2_image-devel
+SDL2_mixer-devel
+SDL2_ttf-devel
+SDL2_net-devel
+neofetch
+gnome-tweak-tool
+https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-36.noarch.rpm
+discord
