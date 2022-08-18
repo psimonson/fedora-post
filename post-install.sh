@@ -41,7 +41,7 @@ if [ ! "$#" = "0" ]; then
 fi
 
 # Get packages.txt from server.
-wget https://github.com/psimonson/fedora-post/blob/master/packages.txt
+wget https://github.com/psimonson/fedora-post/master/packages.txt
 if [ ! "$?" = "0" ]; then
 	echo "Error: Failed to get package list."
 	exit 1
